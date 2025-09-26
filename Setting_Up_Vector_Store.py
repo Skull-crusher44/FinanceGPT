@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/Setting_Up_Vector_Store.py
 """
 This script builds and saves a FAISS vector store from documents in the data directory.
 

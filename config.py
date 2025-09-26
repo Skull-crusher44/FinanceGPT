@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/config.py
 """
 Configuration settings for the FinanceGPT application.
 

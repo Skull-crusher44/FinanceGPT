@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/financebot_no_auth.py
 """
 This script runs the FinanceGPT Streamlit application without authentication.
 

@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/connect_memory_with_llm.py
 """
 This script connects the pre-built FAISS vector store with the LLM to create a question-answering system.
 

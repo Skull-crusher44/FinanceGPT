@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/financebot.py
 """
 This script runs the FinanceGPT Streamlit application.
 

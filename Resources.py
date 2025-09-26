@@ -1,4 +1,3 @@
-# /home/ravi/Projects/pankaj/FinanceGPT/Resources.py
 """
 This module provides functions to load the AI/ML models required for the FinanceGPT application.
 
