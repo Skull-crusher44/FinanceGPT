@@ -25,7 +25,7 @@ def get_login_url():
 def fetch_tokens(code):
     client_id = os.getenv("GOOGLE_CLIENT_ID")
     client_secret = os.getenv("GOOGLE_CLIENT_SECRET")
-    redirect_uri = os.getenv("REDIRECT_URI", "http://localhost:8501")  # Default to localhost for development
+    redirect_uri = os.getenv("REDIRECT_URI", "https://finanace-gpt.streamlit.app")  # Default to localhost for development
 
     token_url = "https://oauth2.googleapis.com/token"
     data = {
