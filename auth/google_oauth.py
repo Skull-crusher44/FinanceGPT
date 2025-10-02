@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 
 def get_login_url():
     client_id = os.getenv("GOOGLE_CLIENT_ID")
-    redirect_uri = os.getenv("REDIRECT_URI", "http://localhost:8501")  # Default to localhost for development
+    redirect_uri = os.getenv("REDIRECT_URI", "https://finanace-gpt.streamlit.app")  # Default to localhost for development
     scope = "openid email profile"
     auth_url = "https://accounts.google.com/o/oauth2/v2/auth"
 
